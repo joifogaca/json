@@ -1,0 +1,14 @@
+[
+  {
+    "nome": 'Canal de Originação'
+  },
+  {
+    "nome": 'Cliente'
+  },
+  {
+    "nome": 'Meio de Desbloqueio'
+  },
+  {
+    "nome": 'Envio'
+  }
+]
