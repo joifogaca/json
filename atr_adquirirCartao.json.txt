@@ -1,14 +1,14 @@
 [
   {
-    "nome": 'Canal de Originação'
+    "nome": "Canal de Originação"
   },
   {
-    "nome": 'Cliente'
+    "nome": "Cliente"
   },
   {
-    "nome": 'Meio de Desbloqueio'
+    "nome": "Meio de Desbloqueio"
   },
   {
-    "nome": 'Envio'
+    "nome": "Envio"
   }
 ]
